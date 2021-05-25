@@ -7,8 +7,8 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: FFMat
-  m_Shader: {fileID: -6465566751694194690, guid: 01dd55616d16e4db0baeaf8e63bac83c, type: 3}
+  m_Name: FFMat 1
+  m_Shader: {fileID: -6465566751694194690, guid: 78f22debbe9a54f2291fb9e6690b0f0c, type: 3}
   m_ShaderKeywords: 
   m_LightmapFlags: 4
   m_EnableInstancingVariants: 0
@@ -19,6 +19,26 @@ Material:
   m_SavedProperties:
     serializedVersion: 3
     m_TexEnvs:
+    - Texture2D_1e4df091d2bc4ea6b06abb834c7dd11c:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - Texture2D_4e0df06e2ce346f6a39b58721096b7be:
+        m_Texture: {fileID: 2800000, guid: ef75c60182c424a8fa80e481b9071552, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - Texture2D_a89d3e426411477694cb283399267d47:
+        m_Texture: {fileID: 2800000, guid: dd61af2ec9847eb4d8e17529fa61b143, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - Texture2D_c6d87b1bb62f440fba23c7c7cfca7229:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _EdgeNoiseSubGragh_273a55d685ec42f3bd3132fa36f2101e_Texture2Dc0029783fed342d8bbd82e7090965f40_3977081272:
+        m_Texture: {fileID: 2800000, guid: ef75c60182c424a8fa80e481b9071552, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
     - _EdgeNoiseSubGragh_8de5400c97a149adb205ea5d951e5c52_Texture2Dc0029783fed342d8bbd82e7090965f40_3977081272:
         m_Texture: {fileID: 2800000, guid: ef75c60182c424a8fa80e481b9071552, type: 3}
         m_Scale: {x: 1, y: 1}
@@ -48,17 +68,25 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     m_Floats:
-    - Vector1_53fdf94526624ffb8dc0055711329cf3: 0.5
-    - Vector1_64bdb6c5ae4f47f3bbad4514c586ee90: 5
+    - Vector1_2d9f90f1ef4a4cdcac4a19c2e1589085: 0.91
+    - Vector1_53fdf94526624ffb8dc0055711329cf3: 0.31
+    - Vector1_5b572aea57604afeb4d4c668f7159620: 0.8
+    - Vector1_64bdb6c5ae4f47f3bbad4514c586ee90: 4.34
     - Vector1_7b8edf19ada94445b99a9953b5ed96af: 0.23
+    - Vector1_811b1fff8c5841598b6fe086159d8e37: 0.28
     - Vector1_c38d83ce73c343e4a8292c1905b69849: 0.34
-    - Vector1_da4e18771684407d9806b25af6b965cf: 1
+    - Vector1_da4e18771684407d9806b25af6b965cf: 0.68
     - Vector1_fbae7b9fe8454e6fbe67826ef765ca79: 0
     m_Colors:
-    - Color_a1869635eabc4f468ab166513a4b18ef: {r: 0.023529395, g: 0.47241253, b: 0.9137255, a: 1}
+    - Color_515ef7ad5ad74da9b63ac675efaab661: {r: 28.288523, g: 134.06299, b: 234.91772, a: 0.9294118}
+    - Color_a1869635eabc4f468ab166513a4b18ef: {r: 13.073595, g: 3.70079, b: 0.30833948, a: 0.7490196}
     - Color_cc1d2f7b404b4480b9981410aa7edf8d: {r: 0, g: 3.6078432, b: 4, a: 0.94509804}
+    - Color_d14140d3eef64beb8e155f1158fb3a78: {r: 0.24313715, g: 0.7254902, b: 0.6505036, a: 0}
     - Vector2_1ed4cffaa6cf4bbaa02ebdf3c1e70fc7: {r: 0, g: 0, b: 0, a: 0}
     - Vector2_2fdd482c8aae4fe2bebe2f5820fdcedd: {r: 0.2, g: 0.9, b: 0, a: 0}
-    - Vector2_c47e6d2d5ef04b5da33cf2cbb1a84c74: {r: 20, g: 20, b: 0, a: 0}
-    - Vector2_f373b72a2b0e47a19094c6425fe520b9: {r: 1, g: 5, b: 0, a: 0}
+    - Vector2_4bcb127f601443708ae0b253388d73a7: {r: 0, g: 0, b: 0, a: 0}
+    - Vector2_71dd9e0a702046a1896bef305db3b37c: {r: 0.99, g: 1, b: 0, a: 0}
+    - Vector2_ac25fda278184716b7174081d6ffb852: {r: 0.14, g: 0.96, b: 0, a: 0}
+    - Vector2_c47e6d2d5ef04b5da33cf2cbb1a84c74: {r: 25.6, g: 22.5, b: 0, a: 0}
+    - Vector2_f373b72a2b0e47a19094c6425fe520b9: {r: 1.62, g: 3.96, b: 0, a: 0}
   m_BuildTextureStacks: []
