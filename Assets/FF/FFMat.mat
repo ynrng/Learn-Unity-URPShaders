@@ -7,8 +7,8 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: HighlightJigsaw
-  m_Shader: {fileID: -6465566751694194690, guid: 34127fa3243f04e1abc856c91288b56a, type: 3}
+  m_Name: FFMat
+  m_Shader: {fileID: -6465566751694194690, guid: 78f22debbe9a54f2291fb9e6690b0f0c, type: 3}
   m_ShaderKeywords: 
   m_LightmapFlags: 4
   m_EnableInstancingVariants: 0
@@ -19,14 +19,6 @@ Material:
   m_SavedProperties:
     serializedVersion: 3
     m_TexEnvs:
-    - _Texture2DAsset_05d2e497bd994043bf508feba7c90da4_Out_0:
-        m_Texture: {fileID: 2800000, guid: 06969fc081d8cc146af6634f75abe652, type: 3}
-        m_Scale: {x: 1, y: 1}
-        m_Offset: {x: 0, y: 0}
-    - _Texture2DAsset_0f2a51718fde47138f2dc17d2e55f710_Out_0:
-        m_Texture: {fileID: 2800000, guid: b3f247b26e080ca468f1daa963c192ee, type: 3}
-        m_Scale: {x: 1, y: 1}
-        m_Offset: {x: 0, y: 0}
     - unity_Lightmaps:
         m_Texture: {fileID: 0}
         m_Scale: {x: 1, y: 1}
@@ -40,7 +32,9 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     m_Floats:
-    - Vector1_5f664fe97b304bcebb0f98221ed2589d: 1
+    - Vector1_64bdb6c5ae4f47f3bbad4514c586ee90: 5
+    - Vector1_fbae7b9fe8454e6fbe67826ef765ca79: 0
     m_Colors:
-    - Color_a98539b3f2ed4b80a4c2767f5222f177: {r: 0.09803916, g: 0.8836375, b: 0.9137255, a: 1}
+    - Color_a1869635eabc4f468ab166513a4b18ef: {r: 0.023529395, g: 0.47241253, b: 0.9137255, a: 1}
+    - Vector2_f373b72a2b0e47a19094c6425fe520b9: {r: 1, g: 5, b: 0, a: 0}
   m_BuildTextureStacks: []
