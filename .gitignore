@@ -25,6 +25,7 @@
 # Visual Studio cache directory
 .vs/
 .vscode/
+>>>>>>> 01c0016 (Initial commit)
 
 # Gradle cache directory
 .gradle/
